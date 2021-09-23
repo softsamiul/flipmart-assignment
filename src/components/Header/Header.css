@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #3366FF;
+    position: sticky;
+    top: 0;
+}
+.logo{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+.menu{
+    margin-right: 5%;
+}
+.menu .menu-item{
+    color: #fff;
+    padding: 7px 18px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    transition: all ease-in 0.5s;
+}
+.menu .menu-item:hover{
+    background-color: #254EDB;
+}
+
+@media (max-width: 478px){
+    header{
+        flex-direction: column;
+    }
+    .menu{
+        display: none;
+    }
+    .menu .menu-item{
+        display: block;
+    }
+    .menu .menu-item:hover{
+        background-color: transparent;
+    }
+}

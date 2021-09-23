@@ -1,0 +1,28 @@
+.cart{
+    padding-top: 30px;
+    padding-left: 20px;
+}
+.cart-title{
+    color:#3366FF;
+}
+.cart-body{
+    text-align: left;
+    padding-top: 20px;
+    width: 100%;
+}
+.ml{
+    padding-left: 25px;
+}
+.place-order-btn{
+    background-color: #3366FF;
+    border: 1px solid #3366FF;
+    border-radius: 20px;
+    font-size: 16px;
+    color: #fff;
+    padding: 7px 20px;
+    margin-top: 20px;
+    transition: all ease-in .5s;
+}
+.place-order-btn:hover{
+    background-color: #1939B7;
+}

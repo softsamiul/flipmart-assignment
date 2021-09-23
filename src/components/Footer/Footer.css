@@ -1,0 +1,16 @@
+footer{
+    background-color: hsl(225, 100%, 60%);
+}
+footer p{
+    color: #fff;
+    margin: 0;
+    padding: 20px 0;
+}
+footer p a{
+    text-decoration: none;
+    color: #fff;
+}
+.heart{
+    color: red;
+    font-size: 20px;
+}
