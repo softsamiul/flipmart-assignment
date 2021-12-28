@@ -6,3 +6,5 @@
     3. Raw CSS
 
 This is a simple E-commerce Product Listing Web Page (PLP) designed using React JS.
+
+<img src="./src/images/web-page.png" alt="web layout">
