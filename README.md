@@ -1,5 +1,7 @@
 # Flipmart
 
+#### Live url: https://flipmart.netlify.app/
+
 ### Technologies used:
     1. React
     2. React Router Dom
